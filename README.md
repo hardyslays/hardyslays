@@ -14,9 +14,9 @@ I'm a Senior Software Engineer and I design AI-powered document intelligence and
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center"><b>🧠 Intelligence with intent</b><hr/><sub>Agentic workflows · RAG · NLP · OCR</sub></td>
-    <td align="center"><b>⚙️ Build correct</b><hr/><sub>Python · .NET · React · OpenShift</sub></td>
-    <td align="center"><b>📄 Documents, decoded</b><hr/><sub>IDP · validation · human-in-the-loop</sub></td>
+    <td align="center" style="border: none; border-collapse: collapse;"><b>🧠 Intelligence with intent</b><hr/><sub>Agentic workflows · RAG · NLP · OCR</sub></td>
+    <td align="center" style="border: none; border-collapse: collapse;"><b>⚙️ Build correct</b><hr/><sub>Python · .NET · React · OpenShift</sub></td>
+    <td align="center" style="border: none; border-collapse: collapse;"><b>📄 Documents, decoded</b><hr/><sub>IDP · validation · human-in-the-loop</sub></td>
   </tr>
 </table>
 
