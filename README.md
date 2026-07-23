@@ -12,7 +12,7 @@
 
 I'm a Senior Software Engineer and I design AI-powered document intelligence and automation platforms. I enjoy turning complex, manual workflows into products people and business can trust—combining LLMs, agentic systems, and solid engineering foundations.
 
-<table width="80%" align="center" style="border: none; border-collapse: collapse;">
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="33%" align="center"><b>🧠 Intelligence with intent</b><br/><sub>Agentic workflows · RAG · NLP · OCR</sub></td>
     <td width="33%" align="center"><b>⚙️ Build to always perform</b><br/><sub>Python · .NET · React · OpenShift</sub></td>
